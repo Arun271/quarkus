@@ -13,7 +13,7 @@ import javax.ws.rs.Path;
 import javax.ws.rs.Produces;
 import javax.ws.rs.core.MediaType;
 import javax.ws.rs.core.Response;
-
+// TODO write these class in separate controller package
 @Path("/movies")
 
 public class ExampleResource {
